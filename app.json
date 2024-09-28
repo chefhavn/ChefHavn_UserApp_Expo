@@ -25,6 +25,12 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "94976e9d-7508-4017-8ad4-e8bb0fc0d3d8"
+      }
+    },
+    "owner": "dev_services_chefhavn"
   }
 }
